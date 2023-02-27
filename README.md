@@ -1,4 +1,4 @@
-# DTU-drone-captured-images-annotations
+# DTU-annotations
 This repository contains coco type annotation files for an openly available drone captured dataset of wind turbine blades.
 
 The dataset is divided into three parts  that is train test and val.
