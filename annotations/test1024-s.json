@@ -1,0 +1,3102 @@
+{
+    "images": [
+        {
+            "id": 0,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0102_0_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 1,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0102_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 2,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0102_1_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 3,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0015_0_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 4,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0015_0_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 5,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0015_0_4.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 6,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0015_1_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 7,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0170_0_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 8,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0170_1_4.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 9,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0376_0_4.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 10,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0699_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 11,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0699_1_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 12,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0434_1_4.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 13,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0359_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 14,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0091_0_0.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 15,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0091_0_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 16,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0091_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 17,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0395_0_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 18,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0395_0_4.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 19,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0182_1_0.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 20,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0624_0_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 21,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0054_0_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 22,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0054_1_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 23,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0036_1_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 24,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0036_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 25,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0180_1_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 26,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0703_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 27,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0184_0_0.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 28,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0112_0_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 29,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0112_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 30,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0055_0_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 31,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0055_1_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 32,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0710_0_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 33,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0710_0_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 34,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0710_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 35,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0710_1_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 36,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0206_0_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 37,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0206_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 38,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0413_0_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 39,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0413_1_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 40,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0413_1_4.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 41,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0433_1_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 42,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0357_0_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 43,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0203_0_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 44,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0203_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 45,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0174_0_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 46,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0174_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 47,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0174_1_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 48,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0694_0_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 49,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0694_1_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 50,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0191_1_0.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 51,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0191_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 52,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0978_1_0.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 53,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0687_0_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 54,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0687_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 55,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0687_1_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 56,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0053_0_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 57,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0053_1_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 58,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0111_0_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 59,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0111_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 60,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0038_1_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 61,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0038_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 62,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0706_0_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 63,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0706_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 64,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0706_1_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 65,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0181_1_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 66,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0327_1_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 67,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0169_0_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 68,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0169_0_4.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 69,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0169_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 70,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0747_0_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 71,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0747_0_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 72,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0747_1_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 73,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0747_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 74,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0616_0_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 75,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0616_1_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 76,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0616_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 77,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0157_0_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 78,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0157_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 79,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0029_0_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 80,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0029_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 81,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0201_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 82,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0619_0_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 83,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0619_1_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 84,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0026_0_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 85,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0026_0_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 86,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0026_1_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 87,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0026_1_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 88,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0021_0_2.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 89,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0021_0_3.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 90,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0021_0_4.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 91,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0021_1_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        },
+        {
+            "id": 92,
+            "folder": "/content/drive/MyDrive/AVALON/DTU-S2-and-S3/DTU-S3/S3-HR-train70-test15-val15-split/HR-dataset-split/Data-preparation/test-data/1024-s/images/",
+            "file_name": "DJI_0977_1_1.JPG",
+            "path": null,
+            "width": 1024,
+            "height": 1024,
+            "depth": 3
+        }
+    ],
+    "annotations": [
+        {
+            "image_id": 0,
+            "id": 0,
+            "segmented": null,
+            "bbox": [
+                340.000768,
+                343.000576,
+                50.999296,
+                61.000704
+            ],
+            "area": 3110.9929595044,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 0,
+            "id": 1,
+            "segmented": null,
+            "bbox": [
+                430.99904,
+                569.000448,
+                45.999104,
+                44.000256
+            ],
+            "area": 2023.9723517706,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 4,
+            "difficult": null
+        },
+        {
+            "image_id": 1,
+            "id": 2,
+            "segmented": null,
+            "bbox": [
+                780.99712,
+                792.001024,
+                23.000064,
+                25.00096
+            ],
+            "area": 575.0236800614,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 2,
+            "id": 3,
+            "segmented": null,
+            "bbox": [
+                2.002432,
+                834.000896,
+                23.99744,
+                24.000512
+            ],
+            "area": 575.9508466893,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 3,
+            "id": 4,
+            "segmented": null,
+            "bbox": [
+                801.001472,
+                612.000768,
+                40.998912,
+                34.000896
+            ],
+            "area": 1393.9997430252,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 4,
+            "id": 5,
+            "segmented": null,
+            "bbox": [
+                138.00192,
+                578.000896,
+                43.000832,
+                34.000896
+            ],
+            "area": 1462.0668167455,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 5,
+            "id": 6,
+            "segmented": null,
+            "bbox": [
+                658.001408,
+                416.000512,
+                37.00224,
+                35.001344
+            ],
+            "area": 1295.1281310106,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 6,
+            "id": 7,
+            "segmented": null,
+            "bbox": [
+                565.99808,
+                704.001024,
+                33.000448,
+                32.999424
+            ],
+            "area": 1088.995775742,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 7,
+            "id": 8,
+            "segmented": null,
+            "bbox": [
+                166.999552,
+                738.999808,
+                23.000064,
+                21.998592
+            ],
+            "area": 505.9690239099,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 7,
+            "id": 9,
+            "segmented": null,
+            "bbox": [
+                381.999616,
+                806.001152,
+                23.99744,
+                23.000064
+            ],
+            "area": 551.9426558362,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 8,
+            "id": 10,
+            "segmented": null,
+            "bbox": [
+                404.001792,
+                109.000192,
+                30.001152,
+                30.000128
+            ],
+            "area": 900.0384001475,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 2,
+            "difficult": null
+        },
+        {
+            "image_id": 9,
+            "id": 11,
+            "segmented": null,
+            "bbox": [
+                994.001408,
+                414.000128,
+                28.998656,
+                91.000832
+            ],
+            "area": 2638.9018228818,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 10,
+            "id": 12,
+            "segmented": null,
+            "bbox": [
+                966.998528,
+                334.000128,
+                56.001536,
+                56.999936
+            ],
+            "area": 3192.0839679017,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 4,
+            "difficult": null
+        },
+        {
+            "image_id": 10,
+            "id": 13,
+            "segmented": null,
+            "bbox": [
+                730.998784,
+                46.001664,
+                292.001792,
+                465.998848
+            ],
+            "area": 136072.4986859356,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 11,
+            "id": 14,
+            "segmented": null,
+            "bbox": [
+                0.000512,
+                334.000128,
+                36.998144,
+                56.999936
+            ],
+            "area": 2108.8918401188,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 4,
+            "difficult": null
+        },
+        {
+            "image_id": 11,
+            "id": 15,
+            "segmented": null,
+            "bbox": [
+                0.0,
+                46.001664,
+                100.99712,
+                465.998848
+            ],
+            "area": 47064.5415713178,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 12,
+            "id": 16,
+            "segmented": null,
+            "bbox": [
+                39.000064,
+                465.998336,
+                225.001472,
+                185.00096
+            ],
+            "area": 41625.4883214131,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 13,
+            "id": 17,
+            "segmented": null,
+            "bbox": [
+                690.002432,
+                326.00064,
+                96.001024,
+                115.001344
+            ],
+            "area": 11040.2467853763,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 14,
+            "id": 18,
+            "segmented": null,
+            "bbox": [
+                897.998336,
+                217.00096,
+                73.99936,
+                61.999104
+            ],
+            "area": 4587.8940165734,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 15,
+            "id": 19,
+            "segmented": null,
+            "bbox": [
+                23.003136,
+                449.001472,
+                58.998784,
+                51.99872
+            ],
+            "area": 3067.8612495565,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 4,
+            "difficult": null
+        },
+        {
+            "image_id": 16,
+            "id": 20,
+            "segmented": null,
+            "bbox": [
+                521.003008,
+                94.001664,
+                20.998144,
+                21.998592
+            ],
+            "area": 461.9296026132,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 16,
+            "id": 21,
+            "segmented": null,
+            "bbox": [
+                698.001408,
+                23.000576,
+                20.000768,
+                21.001216
+            ],
+            "area": 420.0404489339,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 17,
+            "id": 22,
+            "segmented": null,
+            "bbox": [
+                537.999872,
+                799.999488,
+                80.002048,
+                85.001216
+            ],
+            "area": 6800.2713624904,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 18,
+            "id": 23,
+            "segmented": null,
+            "bbox": [
+                78.99904,
+                699.997184,
+                75.00288,
+                75.001856
+            ],
+            "area": 5625.3552053453,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 19,
+            "id": 24,
+            "segmented": null,
+            "bbox": [
+                811.99872,
+                63.000576,
+                48.0,
+                41.00096
+            ],
+            "area": 1968.04608,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 20,
+            "id": 25,
+            "segmented": null,
+            "bbox": [
+                150.998528,
+                764.99968,
+                75.00288,
+                67.00032
+            ],
+            "area": 5025.2169609216,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 20,
+            "id": 26,
+            "segmented": null,
+            "bbox": [
+                54.000128,
+                894.000128,
+                73.99936,
+                65.998848
+            ],
+            "area": 4883.8725127373,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 21,
+            "id": 27,
+            "segmented": null,
+            "bbox": [
+                246.001664,
+                866.000896,
+                38.00064,
+                60.000256
+            ],
+            "area": 2280.0481281638,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 22,
+            "id": 28,
+            "segmented": null,
+            "bbox": [
+                45.002752,
+                301.000192,
+                89.997312,
+                88.001536
+            ],
+            "area": 7919.9016918712,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 4,
+            "difficult": null
+        },
+        {
+            "image_id": 23,
+            "id": 29,
+            "segmented": null,
+            "bbox": [
+                1009.00096,
+                834.000384,
+                13.999104,
+                64.001024
+            ],
+            "area": 895.9569910825,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 3,
+            "difficult": null
+        },
+        {
+            "image_id": 24,
+            "id": 30,
+            "segmented": null,
+            "bbox": [
+                233.001984,
+                636.00128,
+                58.998784,
+                56.999936
+            ],
+            "area": 3362.9269120778,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 3,
+            "difficult": null
+        },
+        {
+            "image_id": 24,
+            "id": 31,
+            "segmented": null,
+            "bbox": [
+                0.0,
+                834.000384,
+                53.999616,
+                64.001024
+            ],
+            "area": 3456.0307196068,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 3,
+            "difficult": null
+        },
+        {
+            "image_id": 25,
+            "id": 32,
+            "segmented": null,
+            "bbox": [
+                567.999488,
+                386.000384,
+                40.001536,
+                38.99904
+            ],
+            "area": 1560.0215025254,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 26,
+            "id": 33,
+            "segmented": null,
+            "bbox": [
+                410.999808,
+                622.000128,
+                78.000128,
+                60.99968
+            ],
+            "area": 4757.982847959,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 2,
+            "difficult": null
+        },
+        {
+            "image_id": 27,
+            "id": 34,
+            "segmented": null,
+            "bbox": [
+                885.997568,
+                976.997888,
+                42.002432,
+                35.001344
+            ],
+            "area": 1470.1415712686,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 28,
+            "id": 35,
+            "segmented": null,
+            "bbox": [
+                1005.996032,
+                574.001664,
+                14.002176,
+                38.99904
+            ],
+            "area": 546.071421911,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 4,
+            "difficult": null
+        },
+        {
+            "image_id": 29,
+            "id": 36,
+            "segmented": null,
+            "bbox": [
+                181.997568,
+                432.998912,
+                40.001536,
+                188.00128
+            ],
+            "area": 7520.3399699661,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 3,
+            "difficult": null
+        },
+        {
+            "image_id": 30,
+            "id": 37,
+            "segmented": null,
+            "bbox": [
+                234.003456,
+                899.000832,
+                38.998016,
+                54.00064
+            ],
+            "area": 2105.9178227302,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 31,
+            "id": 38,
+            "segmented": null,
+            "bbox": [
+                17.00096,
+                326.002176,
+                96.001024,
+                88.998912
+            ],
+            "area": 8543.9866868859,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 4,
+            "difficult": null
+        },
+        {
+            "image_id": 32,
+            "id": 39,
+            "segmented": null,
+            "bbox": [
+                390.000128,
+                409.99936,
+                317.000704,
+                342.99904
+            ],
+            "area": 108730.9371513241,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 4,
+            "difficult": null
+        },
+        {
+            "image_id": 33,
+            "id": 40,
+            "segmented": null,
+            "bbox": [
+                -0.000512,
+                375.999488,
+                54.002688,
+                56.999936
+            ],
+            "area": 3078.149759828,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 33,
+            "id": 41,
+            "segmented": null,
+            "bbox": [
+                273.00096,
+                703.997952,
+                53.998592,
+                58.001408
+            ],
+            "area": 3131.9943660175,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 34,
+            "id": 42,
+            "segmented": null,
+            "bbox": [
+                576.999424,
+                84.999168,
+                73.00096,
+                67.00032
+            ],
+            "area": 4891.0876803072,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 34,
+            "id": 43,
+            "segmented": null,
+            "bbox": [
+                864.001536,
+                417.000448,
+                73.99936,
+                67.00032
+            ],
+            "area": 4957.9807997952,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 35,
+            "id": 44,
+            "segmented": null,
+            "bbox": [
+                139.000832,
+                790.999552,
+                73.00096,
+                68.000768
+            ],
+            "area": 4964.1213447373,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 36,
+            "id": 45,
+            "segmented": null,
+            "bbox": [
+                765.999616,
+                515.99872,
+                23.99744,
+                25.99936
+            ],
+            "area": 623.9180816384,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 36,
+            "id": 46,
+            "segmented": null,
+            "bbox": [
+                741.001216,
+                778.000896,
+                28.997632,
+                37.000192
+            ],
+            "area": 1072.9179515453,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 37,
+            "id": 47,
+            "segmented": null,
+            "bbox": [
+                891.001344,
+                352.000512,
+                33.000448,
+                31.998976
+            ],
+            "area": 1055.9805435412,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 37,
+            "id": 48,
+            "segmented": null,
+            "bbox": [
+                663.997952,
+                547.99872,
+                45.999104,
+                75.001856
+            ],
+            "area": 3450.018174337,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 37,
+            "id": 49,
+            "segmented": null,
+            "bbox": [
+                621.998592,
+                583.000064,
+                48.0,
+                158.998528
+            ],
+            "area": 7631.929344,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 3,
+            "difficult": null
+        },
+        {
+            "image_id": 38,
+            "id": 50,
+            "segmented": null,
+            "bbox": [
+                170.000896,
+                350.001152,
+                61.99808,
+                61.999104
+            ],
+            "area": 3843.8254097203,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 2,
+            "difficult": null
+        },
+        {
+            "image_id": 39,
+            "id": 51,
+            "segmented": null,
+            "bbox": [
+                797.00224,
+                789.998592,
+                225.997824,
+                233.00096
+            ],
+            "area": 52657.709949911,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 40,
+            "id": 52,
+            "segmented": null,
+            "bbox": [
+                0.000512,
+                789.998592,
+                48.0,
+                233.00096
+            ],
+            "area": 11184.04608,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 41,
+            "id": 53,
+            "segmented": null,
+            "bbox": [
+                161.001472,
+                160.000512,
+                249.997312,
+                155.999232
+            ],
+            "area": 38999.3886740644,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 42,
+            "id": 54,
+            "segmented": null,
+            "bbox": [
+                47.999488,
+                64.000512,
+                84.99712,
+                145.998848
+            ],
+            "area": 12409.4816033178,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 43,
+            "id": 55,
+            "segmented": null,
+            "bbox": [
+                440.997376,
+                766.000128,
+                17.001472,
+                15.998976
+            ],
+            "area": 272.0061424927,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 43,
+            "id": 56,
+            "segmented": null,
+            "bbox": [
+                446.002688,
+                806.00064,
+                12.99968,
+                15.998976
+            ],
+            "area": 207.9815683277,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 44,
+            "id": 57,
+            "segmented": null,
+            "bbox": [
+                486.99904,
+                220.998656,
+                20.998144,
+                32.999424
+            ],
+            "area": 692.9266570691,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 45,
+            "id": 58,
+            "segmented": null,
+            "bbox": [
+                542.99904,
+                247.0016,
+                25.00096,
+                112.999424
+            ],
+            "area": 2825.094079447,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 3,
+            "difficult": null
+        },
+        {
+            "image_id": 45,
+            "id": 59,
+            "segmented": null,
+            "bbox": [
+                939.999744,
+                1014.999552,
+                25.998336,
+                8.000512
+            ],
+            "area": 207.999999148,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 46,
+            "id": 60,
+            "segmented": null,
+            "bbox": [
+                564.997632,
+                200.999936,
+                12.99968,
+                17.000448
+            ],
+            "area": 221.0003838566,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 46,
+            "id": 61,
+            "segmented": null,
+            "bbox": [
+                939.999744,
+                0.0,
+                25.998336,
+                6.998016
+            ],
+            "area": 181.9367713014,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 47,
+            "id": 62,
+            "segmented": null,
+            "bbox": [
+                56.001024,
+                115.000832,
+                33.997824,
+                23.000064
+            ],
+            "area": 781.9521278607,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 47,
+            "id": 63,
+            "segmented": null,
+            "bbox": [
+                796.998656,
+                774.001152,
+                20.000768,
+                21.998592
+            ],
+            "area": 439.9887349187,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 2,
+            "difficult": null
+        },
+        {
+            "image_id": 48,
+            "id": 64,
+            "segmented": null,
+            "bbox": [
+                273.000448,
+                408.9984,
+                121.001984,
+                128.001024
+            ],
+            "area": 15488.3778580316,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 48,
+            "id": 65,
+            "segmented": null,
+            "bbox": [
+                647.999488,
+                865.00096,
+                121.99936,
+                128.001024
+            ],
+            "area": 15616.0430073446,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 49,
+            "id": 66,
+            "segmented": null,
+            "bbox": [
+                54.00064,
+                366.000128,
+                121.001984,
+                127.000576
+            ],
+            "area": 15367.3216651428,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 49,
+            "id": 67,
+            "segmented": null,
+            "bbox": [
+                520.000512,
+                927.000576,
+                121.99936,
+                96.0
+            ],
+            "area": 11711.93856,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 50,
+            "id": 68,
+            "segmented": null,
+            "bbox": [
+                66.000384,
+                207.001088,
+                114.998272,
+                78.998528
+            ],
+            "area": 9084.6942105436,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 51,
+            "id": 69,
+            "segmented": null,
+            "bbox": [
+                623.002112,
+                180.998144,
+                147.00032,
+                152.999936
+            ],
+            "area": 22491.0395519795,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 52,
+            "id": 70,
+            "segmented": null,
+            "bbox": [
+                886.998016,
+                349.999104,
+                99.00032,
+                99.999744
+            ],
+            "area": 9900.0066559181,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 53,
+            "id": 71,
+            "segmented": null,
+            "bbox": [
+                297.001472,
+                159.000064,
+                84.99712,
+                81.998848
+            ],
+            "area": 6969.6659233178,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 53,
+            "id": 72,
+            "segmented": null,
+            "bbox": [
+                651.999232,
+                696.998912,
+                76.998656,
+                77.000704
+            ],
+            "area": 5928.9507190538,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 54,
+            "id": 73,
+            "segmented": null,
+            "bbox": [
+                980.003328,
+                168.000512,
+                42.996736,
+                77.000704
+            ],
+            "area": 3310.7789417021,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 55,
+            "id": 74,
+            "segmented": null,
+            "bbox": [
+                0.0,
+                168.000512,
+                33.001472,
+                77.000704
+            ],
+            "area": 2541.1365770363,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 55,
+            "id": 75,
+            "segmented": null,
+            "bbox": [
+                237.00224,
+                580.000256,
+                55.999488,
+                61.000704
+            ],
+            "area": 3416.0081916396,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 55,
+            "id": 76,
+            "segmented": null,
+            "bbox": [
+                508.999168,
+                991.001088,
+                55.002112,
+                31.998976
+            ],
+            "area": 1760.0112618373,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 56,
+            "id": 77,
+            "segmented": null,
+            "bbox": [
+                214.998016,
+                638.001152,
+                38.00064,
+                56.999936
+            ],
+            "area": 2166.034047959,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 57,
+            "id": 78,
+            "segmented": null,
+            "bbox": [
+                10.999808,
+                81.000448,
+                91.000832,
+                91.000832
+            ],
+            "area": 8281.1514246922,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 4,
+            "difficult": null
+        },
+        {
+            "image_id": 58,
+            "id": 79,
+            "segmented": null,
+            "bbox": [
+                929.00352,
+                576.000512,
+                18.997248,
+                35.001344
+            ],
+            "area": 664.9292123013,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 4,
+            "difficult": null
+        },
+        {
+            "image_id": 58,
+            "id": 80,
+            "segmented": null,
+            "bbox": [
+                892.001792,
+                346.000896,
+                25.998336,
+                61.000704
+            ],
+            "area": 1585.9167988285,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 59,
+            "id": 81,
+            "segmented": null,
+            "bbox": [
+                141.99808,
+                467.000832,
+                38.00064,
+                138.001408
+            ],
+            "area": 5244.1418249011,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 3,
+            "difficult": null
+        },
+        {
+            "image_id": 60,
+            "id": 82,
+            "segmented": null,
+            "bbox": [
+                949.001216,
+                881.00096,
+                73.998336,
+                64.001024
+            ],
+            "area": 4735.9692782961,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 3,
+            "difficult": null
+        },
+        {
+            "image_id": 61,
+            "id": 83,
+            "segmented": null,
+            "bbox": [
+                0.0,
+                881.00096,
+                13.002752,
+                64.001024
+            ],
+            "area": 832.189442818,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 3,
+            "difficult": null
+        },
+        {
+            "image_id": 62,
+            "id": 84,
+            "segmented": null,
+            "bbox": [
+                570.99776,
+                500.000768,
+                48.9984,
+                41.998336
+            ],
+            "area": 2057.8512666624,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 2,
+            "difficult": null
+        },
+        {
+            "image_id": 63,
+            "id": 85,
+            "segmented": null,
+            "bbox": [
+                1005.996544,
+                936.999936,
+                17.00352,
+                85.999616
+            ],
+            "area": 1462.2961906483,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 64,
+            "id": 86,
+            "segmented": null,
+            "bbox": [
+                0.0,
+                936.999936,
+                320.999424,
+                85.999616
+            ],
+            "area": 27605.8272002212,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 65,
+            "id": 87,
+            "segmented": null,
+            "bbox": [
+                248.0,
+                378.999296,
+                45.999104,
+                38.99904
+            ],
+            "area": 1793.9208968602,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 66,
+            "id": 88,
+            "segmented": null,
+            "bbox": [
+                556.000256,
+                541.999616,
+                134.00064,
+                135.001088
+            ],
+            "area": 18090.2321926963,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 67,
+            "id": 89,
+            "segmented": null,
+            "bbox": [
+                181.000192,
+                670.00064,
+                22.001664,
+                21.001216
+            ],
+            "area": 462.0616980234,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 67,
+            "id": 90,
+            "segmented": null,
+            "bbox": [
+                398.00064,
+                720.000512,
+                25.998336,
+                21.001216
+            ],
+            "area": 545.9966699766,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 68,
+            "id": 91,
+            "segmented": null,
+            "bbox": [
+                427.999232,
+                979.000832,
+                20.000768,
+                19.999744
+            ],
+            "area": 400.0102398034,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 2,
+            "difficult": null
+        },
+        {
+            "image_id": 69,
+            "id": 92,
+            "segmented": null,
+            "bbox": [
+                508.000256,
+                40.000512,
+                14.002176,
+                18.999296
+            ],
+            "area": 266.0314864681,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 70,
+            "id": 93,
+            "segmented": null,
+            "bbox": [
+                876.002304,
+                995.000832,
+                146.997248,
+                27.999232
+            ],
+            "area": 4115.8100501135,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 71,
+            "id": 94,
+            "segmented": null,
+            "bbox": [
+                0.000512,
+                995.000832,
+                152.001536,
+                27.999232
+            ],
+            "area": 4255.9262708204,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 72,
+            "id": 95,
+            "segmented": null,
+            "bbox": [
+                876.002304,
+                0.0,
+                146.997248,
+                359.999488
+            ],
+            "area": 52918.934017409,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 73,
+            "id": 96,
+            "segmented": null,
+            "bbox": [
+                0.000512,
+                0.0,
+                152.001536,
+                359.999488
+            ],
+            "area": 54720.4751352136,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 74,
+            "id": 97,
+            "segmented": null,
+            "bbox": [
+                295.000064,
+                620.00128,
+                101.998592,
+                98.000896
+            ],
+            "area": 9995.9534067384,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 74,
+            "id": 98,
+            "segmented": null,
+            "bbox": [
+                647.999488,
+                171.00032,
+                111.998976,
+                111.000576
+            ],
+            "area": 12431.9508474102,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 75,
+            "id": 99,
+            "segmented": null,
+            "bbox": [
+                159.997952,
+                1005.001216,
+                121.99936,
+                17.998848
+            ],
+            "area": 2195.8479367373,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 75,
+            "id": 100,
+            "segmented": null,
+            "bbox": [
+                553.9968,
+                531.00032,
+                116.001792,
+                108.998656
+            ],
+            "area": 12644.0394215916,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 75,
+            "id": 101,
+            "segmented": null,
+            "bbox": [
+                899.998208,
+                81.998336,
+                123.001856,
+                114.000896
+            ],
+            "area": 14022.321793663,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 76,
+            "id": 102,
+            "segmented": null,
+            "bbox": [
+                0.000512,
+                81.998336,
+                2.997248,
+                114.000896
+            ],
+            "area": 341.6889575342,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 77,
+            "id": 103,
+            "segmented": null,
+            "bbox": [
+                378.999808,
+                180.000256,
+                20.998144,
+                19.999744
+            ],
+            "area": 419.9575044751,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 77,
+            "id": 104,
+            "segmented": null,
+            "bbox": [
+                536.000512,
+                104.999936,
+                22.001664,
+                18.999296
+            ],
+            "area": 418.0161268285,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 78,
+            "id": 105,
+            "segmented": null,
+            "bbox": [
+                657.002496,
+                129.000448,
+                28.997632,
+                24.000512
+            ],
+            "area": 695.9580147876,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 79,
+            "id": 106,
+            "segmented": null,
+            "bbox": [
+                285.00224,
+                1.00096,
+                48.0,
+                197.000192
+            ],
+            "area": 9456.009216,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 3,
+            "difficult": null
+        },
+        {
+            "image_id": 80,
+            "id": 107,
+            "segmented": null,
+            "bbox": [
+                704.999936,
+                0.0,
+                25.00096,
+                25.99936
+            ],
+            "area": 650.0089593856,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 80,
+            "id": 108,
+            "segmented": null,
+            "bbox": [
+                867.999232,
+                142.999552,
+                25.00096,
+                25.99936
+            ],
+            "area": 650.0089593856,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 80,
+            "id": 109,
+            "segmented": null,
+            "bbox": [
+                377.99936,
+                545.001984,
+                20.998144,
+                21.998592
+            ],
+            "area": 461.9296026132,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 81,
+            "id": 110,
+            "segmented": null,
+            "bbox": [
+                328.002048,
+                181.000704,
+                83.999744,
+                136.999936
+            ],
+            "area": 11507.9595520164,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 82,
+            "id": 111,
+            "segmented": null,
+            "bbox": [
+                60.000768,
+                362.998784,
+                104.997888,
+                85.999616
+            ],
+            "area": 9029.778048811,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 83,
+            "id": 112,
+            "segmented": null,
+            "bbox": [
+                13.998592,
+                640.000512,
+                126.002176,
+                98.999296
+            ],
+            "area": 12474.1267184681,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 83,
+            "id": 113,
+            "segmented": null,
+            "bbox": [
+                401.00096,
+                189.999104,
+                104.997888,
+                85.999616
+            ],
+            "area": 9029.778048811,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 84,
+            "id": 114,
+            "segmented": null,
+            "bbox": [
+                503.997952,
+                1.000448,
+                68.000768,
+                142.999552
+            ],
+            "area": 9724.0793596559,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 3,
+            "difficult": null
+        },
+        {
+            "image_id": 85,
+            "id": 115,
+            "segmented": null,
+            "bbox": [
+                200.0,
+                842.000896,
+                25.00096,
+                28.998656
+            ],
+            "area": 724.9942387098,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 85,
+            "id": 116,
+            "segmented": null,
+            "bbox": [
+                446.0032,
+                929.00096,
+                28.997632,
+                28.998656
+            ],
+            "area": 840.8923551826,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 86,
+            "id": 117,
+            "segmented": null,
+            "bbox": [
+                697.003008,
+                475.00032,
+                20.998144,
+                28.00128
+            ],
+            "area": 587.9749096243,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 87,
+            "id": 118,
+            "segmented": null,
+            "bbox": [
+                884.000256,
+                399.001088,
+                45.001728,
+                48.999424
+            ],
+            "area": 2205.0587510047,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 88,
+            "id": 119,
+            "segmented": null,
+            "bbox": [
+                723.002368,
+                797.001216,
+                38.998016,
+                26.999808
+            ],
+            "area": 1052.9389443809,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 89,
+            "id": 120,
+            "segmented": null,
+            "bbox": [
+                51.99872,
+                825.000448,
+                38.00064,
+                28.00128
+            ],
+            "area": 1064.0665608192,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 90,
+            "id": 121,
+            "segmented": null,
+            "bbox": [
+                816.999936,
+                930.000896,
+                35.001344,
+                38.00064
+            ],
+            "area": 1330.0734728602,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        },
+        {
+            "image_id": 91,
+            "id": 122,
+            "segmented": null,
+            "bbox": [
+                740.000768,
+                602.000896,
+                20.000768,
+                28.00128
+            ],
+            "area": 560.047104983,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 0,
+            "difficult": null
+        },
+        {
+            "image_id": 92,
+            "id": 123,
+            "segmented": null,
+            "bbox": [
+                810.998272,
+                340.998144,
+                114.000896,
+                115.001344
+            ],
+            "area": 13110.2562572042,
+            "segmentation": null,
+            "iscrowd": 0,
+            "pose": null,
+            "truncated": null,
+            "category_id": 1,
+            "difficult": null
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "LE;ER",
+            "supercategory": null
+        },
+        {
+            "id": 4,
+            "name": "SF;PO",
+            "supercategory": null
+        },
+        {
+            "id": 0,
+            "name": "VG;MT",
+            "supercategory": null
+        },
+        {
+            "id": 2,
+            "name": "LR;DA",
+            "supercategory": null
+        },
+        {
+            "id": 3,
+            "name": "LE;CR",
+            "supercategory": null
+        }
+    ]
+}
