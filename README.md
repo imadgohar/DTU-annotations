@@ -10,8 +10,8 @@ The file names are self-explanatorty, train-1024-s refers to images that is slic
 
 2. Re-annotation:
 
-Under this folder two sub-folders are placed with the name D2 and D3. These folders contains the re-considered annotations of the Crack category with extreme aspect ratio. For details see the paper.
+Under this folder two sub-folders are placed with the name D2 and D3. These folders contain the re-considered annotations of the Crack category with extreme aspect ratio. For details see the paper.
 
 
-If you are using these annotations in your research or considering it to base your annotation process please cite:
+If you are using these annotations in your research or considering it as base for your annotation process please cite:
 "Will be added soon"
