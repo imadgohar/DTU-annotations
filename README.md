@@ -35,4 +35,13 @@ benchmark datasets</p>
 
 <h3>Cite</h3>
 If you are using these annotations in your research or considering it as base for your annotation process please cite:
-"Will be added soon"
+<p>@article{gohar2023slice,
+  title={Slice-Aided Defect Detection in Ultra High-Resolution Wind Turbine Blade Images},
+  author={Gohar, Imad and Halimi, Abderrahim and See, John and Yew, Weng Kean and Yang, Cong},
+  journal={Machines},
+  volume={11},
+  number={10},
+  pages={953},
+  year={2023},
+  publisher={MDPI}
+}</p>
