@@ -1,31 +1,20 @@
 # DTU-Wind Turbine Blade Drone Inspection Images
-This repository contains two annotation folders for an openly available drone captured dataset of wind turbine blades. The images can be found here https://data.mendeley.com/datasets/hd96prn3nc/2.
+Drones can be used to monitor the surface condition of wind turbine blades. When transmitting image data to servers via 4G/5G technology, defect detection models often have to deal with ultra high-resolution images.
+![overview-updated-03](https://github.com/imadgohar/DTU-annotations/assets/45845910/07895ffe-c322-4fef-8d12-6580fa988bde)
+
 
 ## Annotations
-Under this folder, dataset is divided into three parts that is train, test and val.
+This repository contains two annotation folders for an openly available drone captured dataset of wind turbine blades. The images can be found here https://data.mendeley.com/datasets/hd96prn3nc/2.
+
+Under Annotations folder, the dataset is divided into three parts that is train, test and val with a ratio of 70:15:15.
 
 The file names are self-explanatorty, train-1024-s refers to images that is sliced into square size of 1024 pixels. Test set has two files that is test-HR which represents the original images and test1024-s represents the sliced set.
 
 ## Re-annotation
-Annotation process is often tedious in nature, with many challenging
-decisions to make. For instance, some defects may occupy
-a large area of blade surface causing bounding boxes to be
-unwieldy large. Meanwhile, long and narrow components of
-the WTB can result in extreme aspect ratios, i.e. boxes with a
-much larger horizontal side than the vertical side and vice
-versa, as exemplified in below Figure. Annotators could either
-choose to keep the entire defect intact or break the defect into
-smaller boxes. Such decisions are not without consequences;
-small boxes are notoriously difficult to detect, as many findings
-have acknowledged while boxes with extremely large
-or small aspect ratios faced data scarcity for training purposes.
-Therefore, it is important to explore and determine optimal
-aspect ratios by assessing their class-wise performances on
-benchmark datasets.
+Annotation process is often tedious in nature, with many challenging decisions to make. For instance, some defects may occupy a large area of blade surface causing bounding boxes to be unwieldy large. Meanwhile, long and narrow components of the WTB can result in extreme aspect ratios, i.e. boxes with amuch larger horizontal side than the vertical side and vice versa, as exemplified in below Figure. Annotators could either choose to keep the entire defect intact or break the defect into smaller boxes. Such decisions are not without consequences; small boxes are notoriously difficult to detect, as many findings have acknowledged while boxes with extremely large or small aspect ratios faced data scarcity for training purposes. Therefore, it is important to explore and determine optimal aspect ratios by assessing their class-wise performances on benchmark datasets.
 
 ## Re-annotation sub-folders
 Under this folder two sub-folders are placed with the name D2 and D3. These folders contain the re-considered annotations of the Crack category with extreme aspect ratio. For details see the paper.</p>
-
 
 ## Extreme Aspect Ratio
 ![extreme_aspect-ratios](https://user-images.githubusercontent.com/45845910/235831876-a0a045bf-f0a0-476f-94eb-d558f4e101b7.png)
