@@ -1,4 +1,4 @@
-# DTU-Wnd Turbine Blade Drone Inspection Images
+# DTU-Wind Turbine Blade Drone Inspection Images
 This repository contains two annotation folders for an openly available drone captured dataset of wind turbine blades. The images can be found here https://data.mendeley.com/datasets/hd96prn3nc/2.
 
 ## Annotations
