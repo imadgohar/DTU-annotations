@@ -29,13 +29,29 @@ benchmark datasets</p>
 <p>Under this folder two sub-folders are placed with the name D2 and D3. These folders contain the re-considered annotations of the Crack category with extreme aspect ratio. For details see the paper.</p>
 
 
-<h3>Extreme Aspect Ratio:</h3>
-
+##Extreme Aspect Ratio
 ![extreme_aspect-ratios](https://user-images.githubusercontent.com/45845910/235831876-a0a045bf-f0a0-476f-94eb-d558f4e101b7.png)
 
-<h3>Cite</h3>
+##Cite
 If you are using these annotations in your research or considering it as base for your annotation process please cite:
 
-@article{gohar2023slice, title={Slice-Aided Defect Detection in Ultra High-Resolution Wind Turbine Blade Images}, author={Gohar, Imad and Halimi, Abderrahim and See, John and Yew, Weng Kean and Yang, Cong}, journal={Machines}, volume={11}, number={10}, pages={953}, year={2023}, publisher={MDPI} }
-
-@inproceedings{gohar2023automatic, title={Automatic Defect Detection in Wind Turbine Blade Images: Model Benchmarks and Re-Annotations}, author={Gohar, Imad and See, John and Halimi, Abderrahim and Yew, Weng Kean}, booktitle={2023 IEEE International Conference on Multimedia and Expo Workshops (ICMEW)}, pages={290--295}, year={2023}, organization={IEEE} }
+```bibtex
+@article{gohar2023slice,
+  title={Slice-Aided Defect Detection in Ultra High-Resolution Wind Turbine Blade Images},
+  author={Gohar, Imad and Halimi, Abderrahim and See, John and Yew, Weng Kean and Yang, Cong},
+  journal={Machines},
+  volume={11},
+  number={10},
+  pages={953},
+  year={2023},
+  publisher={MDPI}
+}
+```bibtex
+@inproceedings{gohar2023automatic,
+  title={Automatic Defect Detection in Wind Turbine Blade Images: Model Benchmarks and Re-Annotations},
+  author={Gohar, Imad and See, John and Halimi, Abderrahim and Yew, Weng Kean},
+  booktitle={2023 IEEE International Conference on Multimedia and Expo Workshops (ICMEW)},
+  pages={290--295},
+  year={2023},
+  organization={IEEE}
+}
