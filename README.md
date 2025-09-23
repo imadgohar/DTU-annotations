@@ -8,7 +8,7 @@ This repository contains two annotation folders for an openly available drone ca
 
 Under Annotations folder, the dataset is divided into three parts that is train, test and val with a ratio of 70:15:15.
 
-The file names are self-explanatorty, train-1024-s refers to images that is sliced into square size of 1024 pixels. Test set has two files that is test-HR which represents the original images and test1024-s represents the sliced set.
+The file names are self-explanatorty (the name of the image with _1, _2, _3 represents different patches of the same image), train-1024-s refers to images that is sliced into square size of 1024 pixels. Test set has two files that is test-HR which represents the original images and test1024-s represents the sliced set.
 
 ## Re-annotation
 Annotation process is often tedious in nature, with many challenging decisions to make. For instance, some defects may occupy a large area of blade surface causing bounding boxes to be unwieldy large. Meanwhile, long and narrow components of the WTB can result in extreme aspect ratios, i.e. boxes with amuch larger horizontal side than the vertical side and vice versa, as exemplified in below Figure. Annotators could either choose to keep the entire defect intact or break the defect into smaller boxes. Such decisions are not without consequences; small boxes are notoriously difficult to detect, as many findings have acknowledged while boxes with extremely large or small aspect ratios faced data scarcity for training purposes. Therefore, it is important to explore and determine optimal aspect ratios by assessing their class-wise performances on benchmark datasets.
